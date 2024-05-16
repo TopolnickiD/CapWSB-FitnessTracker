@@ -30,7 +30,7 @@ Stworzone API powinno pozwalać na:
   domyślne, pobierające dane za pomocą `findAll()` oraz przetwarzające je za pomocą strumieni (`Stream`). Przykład
   znaleźć można w `UserRepository`
 - [ ] rozwiązanie powinno spełniać zasady SOLID
-- [ ] rozwiązanie powinno być pokryte testami jednostkowymi (>80%)
+- [ ] OPCJONALNE rozwiązanie powinno być pokryte testami jednostkowymi (>80%)
 - [ ] OPCJONALNE rozwiązanie powinno implementować logikę potrzebną do spełnienia już
   istniejących [testów integracyjnych API]
   . NIE należy zmieniać logiki tych testów.
